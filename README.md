@@ -3,6 +3,7 @@
 This repository contains the official implementation of **VSSM-RetinaNet** (VMamba-based Backbone + HFSF-FPN) for SAR ship detection on the SSDD dataset, built upon the [MMDetection](https://github.com/open-mmlab/mmdetection) framework.
 
 ---
+Status: Code refactoring in progress. Complete implementation and configurations will be updated synchronously soon.
 
 ## 📌 Repository Structure
 
